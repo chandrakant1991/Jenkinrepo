@@ -2,3 +2,4 @@ this is test 2 file.
 this changes is made on github.
 now i am using merge command.
 this is second time i am using merge command
+now i am learning git branch.
